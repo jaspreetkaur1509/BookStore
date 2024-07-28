@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias",
+        "price":0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/opened-fantasy-book-with-cute-animals_1308-97275.jpg?t=st=1721975283~exp=1721978883~hmac=4310bbad1feb9b60ac39d234bb0814ac7dce47bafc56292bb8880004c383d724&w=740"
+    },
+    {
+        "id":2,
+        "name": "ComedyBook",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias",
+        "price":20,
+        "category": "comedy",
+        "image": "https://img.freepik.com/free-vector/opened-fantasy-book-with-cute-animals_1308-97275.jpg?t=st=1721975283~exp=1721978883~hmac=4310bbad1feb9b60ac39d234bb0814ac7dce47bafc56292bb8880004c383d724&w=740"
+    },
+    {
+        "id":3,
+        "name": "Sports Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias",
+        "price":50,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-photo/sporting-essentials-focus-sports-equipment-photo_1032986-11040.jpg?w=996"
+    },
+    {
+        "id":4,
+        "name": "Music Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias",
+        "price":200,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/beautifully-illustrate-musical-instrument_23-2151103366.jpg?t=st=1721975652~exp=1721979252~hmac=a180b54a1d40153f9302ac11c698e1c029369871ffeabb79480ac5b9e16606e2&w=740"
+    },
+    {
+        "id":5,
+        "name": "Cooking Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias",
+        "price":100,
+        "category": "Food",
+        "image": "https://img.freepik.com/free-photo/top-view-yummy-dovga-yogurt-soup-with-seasonings-white-floor-dish-milk-soup-dairy_140725-124536.jpg?t=st=1721975596~exp=1721979196~hmac=25133fb8840dc3a458a4e629593cbc783356622131bca845a10a6acf6685583f&w=996"
+    },
+    {
+        "id":6,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias",
+        "price":0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/opened-fantasy-book-with-cute-animals_1308-97275.jpg?t=st=1721975283~exp=1721978883~hmac=4310bbad1feb9b60ac39d234bb0814ac7dce47bafc56292bb8880004c383d724&w=740"
+    },
+    {
+        "id":6,
+        "name": "Drama Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias",
+        "price":20,
+        "category": "Drama",
+        "image": "https://img.freepik.com/free-vector/opened-fantasy-book-with-cute-animals_1308-97275.jpg?t=st=1721975283~exp=1721978883~hmac=4310bbad1feb9b60ac39d234bb0814ac7dce47bafc56292bb8880004c383d724&w=740"
+    },
+    {
+        "id":6,
+        "name": "Science Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias",
+        "price":80,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/opened-fantasy-book-with-cute-animals_1308-97275.jpg?t=st=1721975283~exp=1721978883~hmac=4310bbad1feb9b60ac39d234bb0814ac7dce47bafc56292bb8880004c383d724&w=740"
+    },
+    {
+        "id":6,
+        "name": "Science Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias",
+        "price":80,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/opened-fantasy-book-with-cute-animals_1308-97275.jpg?t=st=1721975283~exp=1721978883~hmac=4310bbad1feb9b60ac39d234bb0814ac7dce47bafc56292bb8880004c383d724&w=740"
+    }
+]
